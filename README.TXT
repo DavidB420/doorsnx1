@@ -27,7 +27,7 @@ your choice.
 3. Insert the boot medium into the computer while it is off.
 4. At bootup, press F12 or whatever key that gets you into the boot options
 for your computer.
-5. Select the DavidDOS medium for the boot options
+5. Select the Doors NX medium for the boot options
 6. If you followed the steps correctly you are now running Doors NX
 
 Software I used to make Doors NX
@@ -39,5 +39,5 @@ VMware Workstation - Virtual machine software I used during development
 HxD hex editor - Imaging and debugging
 
 Extra thanks to Mike Saunders and Mikestylz as I used some of their assets
-for the development of Doors
-
+for the development of Doors NX
+
